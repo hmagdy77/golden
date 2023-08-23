@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564120459756",
+    "project_id": "golden-3b8fb",
+    "storage_bucket": "golden-3b8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564120459756:android:db25bc73043b63d7c008c9",
+        "android_client_info": {
+          "package_name": "com.goldensportsacademy.goldenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wPSSx0ViDHvnQ7GAeEmRCsTQGQ0Y3b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
